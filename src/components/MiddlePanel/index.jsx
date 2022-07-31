@@ -1,0 +1,1 @@
+export { MiddlePanel } from './MiddlePanel';
