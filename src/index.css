@@ -2,6 +2,12 @@
   margin: 0;
 }
 body {
-  color: rgba(0,0,0,0,0.8)
+  color: rgba(0,0,0,0,0.8);
+  -ms-overflow-style: none;  
+  scrollbar-width: none;
+}
+
+body::-webkit-scrollbar {
+  display: none
 }
 
