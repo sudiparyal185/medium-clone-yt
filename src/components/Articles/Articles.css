@@ -1,0 +1,19 @@
+.articles {
+    margin: 48px 0px;
+}
+
+.articles__header {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.articles__body {
+    margin: 16px 0px;
+}
+
+.articles__footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
